@@ -14,5 +14,3 @@ nums = input()
 nums=eval(nums)
 target = int(input())
 print(twoSum(nums, target))
-
-C:\Users\seonahryu\Desktop\swe
